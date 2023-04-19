@@ -32,6 +32,7 @@ import java.util.Random;
 
 public class GunType extends BaseType {
 
+    public boolean hasScope = false;
     /**
      * Weapon Classification for later use with default animations etc
      */
